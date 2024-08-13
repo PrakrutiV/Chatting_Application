@@ -22,7 +22,6 @@ Java Development Kit (JDK)
 
 **Getting Started**
 
-Running the Application
 
 Open the project in your preferred IDE.
 
