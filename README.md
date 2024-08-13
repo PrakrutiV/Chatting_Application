@@ -15,9 +15,11 @@ Displayed messages with timestamps using JPanel and BoxLayout for a clean and or
 
 
 *Prerequisites*
+
 Java Development Kit (JDK)
 
 *Getting Started*
+
 Running the Application
 Open the project in your preferred IDE.
 Navigate to the src directory.
@@ -25,9 +27,11 @@ Compile and run Server.java.
 Compile and run Client.java for each client instance you want to start.
 
 *Usage*
+
 Run Server.java to start the server.
 Run Client.java to launch one or more client instances.
 
 *Language Used :*
+
 Java (100%) 
 
