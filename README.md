@@ -2,7 +2,7 @@
 
 A Java-based chatting application with a user-friendly GUI, enabling real-time messaging.
 
-*Features*
+**Features**
 
 Java Swing GUI:
 Implemented a graphical user interface using Java Swing for seamless user interaction and message display.
@@ -14,11 +14,11 @@ Message Formatting:
 Displayed messages with timestamps using JPanel and BoxLayout for a clean and organized chat view.
 
 
-*Prerequisites*
+**Prerequisites**
 
 Java Development Kit (JDK)
 
-*Getting Started*
+**Getting Started**
 
 Running the Application
 Open the project in your preferred IDE.
@@ -26,12 +26,12 @@ Navigate to the src directory.
 Compile and run Server.java.
 Compile and run Client.java for each client instance you want to start.
 
-*Usage*
+**Usage**
 
 Run Server.java to start the server.
 Run Client.java to launch one or more client instances.
 
-*Language Used :*
+**Language Used :**
 
 Java (100%) 
 
